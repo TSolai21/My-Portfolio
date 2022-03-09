@@ -1,0 +1,31 @@
+#Form {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 50%;
+  margin: 10% auto;
+  gap: 0.5rem;
+}
+
+#Form > label {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+#Form > input {
+  border: 3px solid var(--clr-accent);
+  padding: 10px;
+  outline: none;
+}
+#Form > textarea {
+  border: 3px solid var(--clr-accent);
+  padding: 10px;
+  outline: none;
+}
+#Form > ::placeholder {
+  color: var(--clr-dark);
+}
+.btn {
+  border: none;
+  width: 100px;
+}

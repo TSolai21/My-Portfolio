@@ -1,0 +1,39 @@
+a {
+  text-decoration: none;
+  color: var(--clr-light);
+  font-weight: 500;
+}
+#Footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  padding: 0 1.5rem;
+  margin: 20px;
+}
+ul a {
+  margin-left: 0.5rem;
+}
+h3 {
+  font-size: 1.5rem;
+  text-transform: capitalize;
+  color: var(--clr-light);
+  margin-top: 20px;
+}
+
+.Social__link {
+  margin-left: 20px;
+}
+.hover {
+  transition: 0.3s;
+}
+.hover:hover {
+  transform: scale(1.4);
+  color: var(--clr-accent);
+}
