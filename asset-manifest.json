@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.e64fb974.css",
+    "main.css": "/My-Portfolio/static/css/main.ed77197b.css",
     "main.js": "/My-Portfolio/static/js/main.587f7f2e.js",
+    "static/media/work-1.png": "/My-Portfolio/static/media/work-1.db1961258a0fd5fb71d9.png",
     "static/media/solai.jpg": "/My-Portfolio/static/media/solai.ad72842dde6b07b1b971.jpg",
-    "static/media/work4.png": "/My-Portfolio/static/media/work4.ee708359afbfa62e8399.png",
     "static/media/intro1.png": "/My-Portfolio/static/media/intro1.257f4835a4a4598d0ed1.png",
     "static/media/Form.jpg": "/My-Portfolio/static/media/Form.ba3d5c327ae15d89fb41.jpg",
     "static/media/solaikumar.pdf": "/My-Portfolio/static/media/solaikumar.26897fcb51eb1af38366.pdf",
     "static/media/work10.jpg": "/My-Portfolio/static/media/work10.1fb73c8f52c68a406932.jpg",
     "static/media/sk-logo.png": "/My-Portfolio/static/media/sk-logo.703834da5ff5fddb446b.png",
     "index.html": "/My-Portfolio/index.html",
-    "main.e64fb974.css.map": "/My-Portfolio/static/css/main.e64fb974.css.map",
+    "main.ed77197b.css.map": "/My-Portfolio/static/css/main.ed77197b.css.map",
     "main.587f7f2e.js.map": "/My-Portfolio/static/js/main.587f7f2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e64fb974.css",
+    "static/css/main.ed77197b.css",
     "static/js/main.587f7f2e.js"
   ]
 }
