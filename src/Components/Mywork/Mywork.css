@@ -26,7 +26,7 @@
   border-radius: 5px;
 }
 .work-1 {
-  background-image: url(../../Assets/work4.png);
+  background-image: url(../../Assets/work-1.png);
   background-position: top;
   background-size: cover;
   transition: background-position ease-in-out 5s;
