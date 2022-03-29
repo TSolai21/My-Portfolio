@@ -35,19 +35,25 @@
 }
 .Skill:hover {
   background-color: var(--clr-accent);
-  transform: scale(1.1);
   cursor: pointer;
+}
+.Skill h2 {
+  transition: 0.3s ease-in-out;
+  font-size: 2.5rem;
+}
+.Skill h2:hover {
+  transform: scale(1.2);
 }
 .btn {
   background-color: var(--clr-dark);
   font-weight: 600;
   padding: 10px 20px;
-  border-radius: 5px;
+  border-radius: 3px;
   text-decoration: none;
   color: var(--clr-light);
   cursor: pointer;
   transition: 0.5s;
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .btn:hover {

@@ -7,14 +7,15 @@ function Aboutme() {
     <div id="Aboutme">
       <div className="Aboutme__top">
         <h2 className="Aboutme__tittle">Who I am</h2>
+        <div className="Aboutme__line"></div>
         <p className="Aboutme__subtittle">
-          My name is Solaikumar I'm a Front End Engineer based in India. I
+          My name is Solaikumar I'm a Front End Engineer located in India. I
           describe myself as a passionate developer who loves the web platform
           ❤️. In my free time you can find me at the gym 🏋️‍♂️
         </p>
         <div className="resume">
           <a href={Resume} download className="click">
-            Resume
+            Download Cv
           </a>
         </div>
       </div>

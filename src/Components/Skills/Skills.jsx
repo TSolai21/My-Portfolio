@@ -18,6 +18,9 @@ function Skills() {
         <div className="Skill">
           <h2>React</h2>
         </div>
+        <div className="Skill ">
+          <h2>Git</h2>
+        </div>
       </div>
       <div className="button">
         <Link to="FormContainer" smooth={true} duration={500} className="btn">

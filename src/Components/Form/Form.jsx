@@ -1,11 +1,24 @@
 import React from "react";
 import "./Form.css";
-import img from "../../Assets/Form.jpg";
 function Form() {
   return (
     <div className="Container">
-      <div className="Form__img">
-        <img src={img} alt="Form left image" />
+      <div className="Form__contact">
+        <h1 className="Contact__tittle">my Contacts</h1>
+        <div className="Contact__address">
+          <h2 className="head">address</h2>
+          <h2 className="subhead">
+            1/36 South Street, <br /> Rajavinkovil, <br /> Thoothukudi-628402
+          </h2>
+        </div>
+        <div className="Contact__phone">
+          <h2 className="head">phone</h2>
+          <h2 className="subhead"> +91-9629192376</h2>
+        </div>
+        <div className="Contact__email">
+          <h2 className="head">email</h2>
+          <h2 className="subhead">solaikumar.t@gmail.com</h2>
+        </div>
       </div>
       <div id="Form">
         <h1> Quick Contact Form</h1>

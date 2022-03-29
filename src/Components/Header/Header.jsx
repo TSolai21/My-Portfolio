@@ -24,7 +24,7 @@ function Header(props) {
         </Link>
       </div>
       <div className={navbar ? "Header__right active" : "Header__right"}>
-        <Link to="IntroContainer" smooth={true} duration={500}>
+        <Link to="Header" smooth={true} duration={500}>
           <FaHome size={35} />
         </Link>
         <Link to="AboutContainer" smooth={true} duration={500}>

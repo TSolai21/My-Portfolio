@@ -8,6 +8,7 @@ a {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  padding: 10px 0;
 }
 
 ul {
@@ -36,4 +37,16 @@ h3 {
 .hover:hover {
   transform: scale(1.4);
   color: var(--clr-accent);
+}
+
+.logo {
+  height: 100px;
+  cursor: pointer;
+}
+
+.text {
+  color: var(--clr-light);
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-transform: capitalize;
 }

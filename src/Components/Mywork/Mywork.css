@@ -36,7 +36,7 @@
   cursor: pointer;
 }
 .work-2 {
-  background-image: url(../../Assets/work10.jpg);
+  background-image: url(../../Assets/work-2.png);
   background-position: top;
   background-size: cover;
   transition: background-position ease-in-out 5s;

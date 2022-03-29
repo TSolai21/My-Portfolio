@@ -1,6 +1,6 @@
 #FormContainer {
   background-color: white;
-  margin: 5% 10%;
+  padding: 5% 10%;
   display: flex;
   align-items: center;
 }

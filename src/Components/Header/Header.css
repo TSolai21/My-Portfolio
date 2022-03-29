@@ -74,18 +74,26 @@
 .hamburger {
   cursor: pointer;
 }
+
 @media screen and (min-width: 768px) {
   .Header__right {
     top: 14vh;
-    left: 92%;
+    left: 88%;
     margin: 0;
     flex-direction: column;
     height: 330px;
-    width: 20px;
+    width: 1.5rem;
     align-items: center;
     justify-content: center;
   }
   .Header__right a {
     margin-top: 20px;
+  }
+}
+
+@media screen and (min-width: 1023px) {
+  .Header__right {
+    top: 14vh;
+    left: 92%;
   }
 }
